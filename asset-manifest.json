@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/thekioskman/Askme.git/static/css/main.acb2ade7.chunk.css",
+    "main.js": "/thekioskman/Askme.git/static/js/main.78012554.chunk.js",
+    "main.js.map": "/thekioskman/Askme.git/static/js/main.78012554.chunk.js.map",
+    "runtime-main.js": "/thekioskman/Askme.git/static/js/runtime-main.915b9c5c.js",
+    "runtime-main.js.map": "/thekioskman/Askme.git/static/js/runtime-main.915b9c5c.js.map",
+    "static/js/2.ff321ca0.chunk.js": "/thekioskman/Askme.git/static/js/2.ff321ca0.chunk.js",
+    "static/js/2.ff321ca0.chunk.js.map": "/thekioskman/Askme.git/static/js/2.ff321ca0.chunk.js.map",
+    "index.html": "/thekioskman/Askme.git/index.html",
+    "precache-manifest.1ffc3db8389b9eebe94a6e16af19879e.js": "/thekioskman/Askme.git/precache-manifest.1ffc3db8389b9eebe94a6e16af19879e.js",
+    "service-worker.js": "/thekioskman/Askme.git/service-worker.js",
+    "static/css/main.acb2ade7.chunk.css.map": "/thekioskman/Askme.git/static/css/main.acb2ade7.chunk.css.map",
+    "static/js/2.ff321ca0.chunk.js.LICENSE.txt": "/thekioskman/Askme.git/static/js/2.ff321ca0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.915b9c5c.js",
+    "static/js/2.ff321ca0.chunk.js",
+    "static/css/main.acb2ade7.chunk.css",
+    "static/js/main.78012554.chunk.js"
+  ]
+}
